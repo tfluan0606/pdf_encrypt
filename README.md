@@ -1,2 +1,2 @@
 # pdf_encrypt
-use python with PyPDF2 and pandas to encrypt many pdf files
+use python with PyPDF2 and pandas to encrypt many pdf files at the same time
